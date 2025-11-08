@@ -8,7 +8,7 @@ The project focuses on **DOM manipulation**, **event handling**, **keyboard inpu
 The calculator allows users to perform operations through both **on-screen buttons** and **keyboard keys**, providing an intuitive and smooth user experience.
 
 ---
-##🔗 Live Website:
+## 🔗 Live Website:
 
 [https://nidafazlinalband-eng.github.io/Calculator/]
 ---
