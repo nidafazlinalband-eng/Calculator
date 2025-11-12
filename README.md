@@ -11,7 +11,7 @@ The calculator allows users to perform operations through both **on-screen butto
 ## 🔗 Live Website:
 
 
-[https://nidafazlinalband-eng.github.io/Calculator/]
+[https://nidafazli-nalband.github.io/Calculator/]
 
 ---
 
